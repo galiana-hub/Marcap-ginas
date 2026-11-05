@@ -1,5 +1,5 @@
 // Service worker: deja la app entera disponible sin conexión.
-const VERSION = 'mp-v5';
+const VERSION = 'mp-v6';
 const ASSETS = [
   './',
   'index.html',
